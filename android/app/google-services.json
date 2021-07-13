@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386671631627",
+    "project_id": "vayyup-app",
+    "storage_bucket": "vayyup-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386671631627:android:98d5bfbd39dc367344d60e",
+        "android_client_info": {
+          "package_name": "com.dellainfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386671631627-cn7m894c1ace6103oreftol0ikr7p3cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dellainfotech",
+            "certificate_hash": "40ed7165f7db3983d2bb66b8c5e73bce8d6527b3"
+          }
+        },
+        {
+          "client_id": "386671631627-ken9611ff298hueis4tddjkmasjsuj9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dellainfotech",
+            "certificate_hash": "53f2513d461c9932de35cb79621ee5ea358bc5b6"
+          }
+        },
+        {
+          "client_id": "386671631627-2mm4h57e9at91c9kkarif6bcptdi4pi2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHabpFuvYP36GX7QqOGVXLoneWlqwoZtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386671631627-2mm4h57e9at91c9kkarif6bcptdi4pi2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
